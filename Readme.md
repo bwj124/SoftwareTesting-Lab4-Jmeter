@@ -1,8 +1,8 @@
 Jmeter压力测试1
-
+> test1.jmx是从Jmeter导出的配置文件，可以用Jmeter直接打开。
 1.  **整体目标：**
 
-安装虚拟机，并在虚拟机上搭建LAMP（Linux+Apache+Mysql+PHP）工作环境，并基于此安装待测系统，推荐ECShop（http://www.ecshop.com）或BugFree（https://www.bugfree.cn/）（视频教程中演示的BugFree已停止维护，可以尝试最新的禅道项目管理软件），基于此进行Jmeter压力测试，并在测试后得出Jmeter测试报告，并根据top得出Linux服务器的CPU、Memory等信息。
+安装虚拟机，并在虚拟机上搭建LAMP（Linux+Apache+Mysql+PHP）工作环境，并基于此安装待测系统，推荐ECShop（http://www.ecshop.com）或BugFree（https://www.bugfree.cn/） （视频教程中演示的BugFree已停止维护，可以尝试最新的禅道项目管理软件），基于此进行Jmeter压力测试，并在测试后得出Jmeter测试报告，并根据top得出Linux服务器的CPU、Memory等信息。
 
 1.  **实验内容：**
 
